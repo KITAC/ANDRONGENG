@@ -1,0 +1,40 @@
+RPL putaran satu ... (xixiXi)
+Guna memenuhi tugas matakuliah rekayasa perangkat lunak yang dibimbing oleh pak Jauharul fuadi, kami ditugaskan untuk membangun suatu aplikasi guna mengimplementasikan hal yang telah dipelajari dalam kuliah(teori).
+kelompok ini beranggotakan lima orang, dengan jabaran tugas sebagai berikut :
+Team Leader 	=> Khoirudi Asfani
+Design	  	=> Kartikasari Kusuma
+Analys	 	=> Khusnul Qotimah
+Implementation	=> M. Arifin Saputra
+Documentation	=> Hurin Vita Kurnia
+
+Apa itu Androngeng???
+Androngeng adalah sebuah apliaksi berbasis Android yang berisi kumpulan dongeng bagi anak anak . Dalam aplikasi Androngeng  ini dihimpun berbagai dongeng dari seluruh Indonesia seperti cerita Bawang Merah dan Bawang Putih, Kancil dan Buaya, Danau Toba, Aryo Menak, Lutung Kasarung, Loro Jonggrang dan masih banyak lagi. Aplikasi Androngeng  ini pun disusun dalam bentuk yang interaktif sehingga memudahkan pembaca untuk menikmatinya. Aplikasi Androngeng ini sangat berguna bagi guru, orang tua dan siapapun karena didalamnya banyak dongeng yang memiliki pelajaran yang berharga tetapi ditampilkan dalam bentuk yang menarik bagi anak anak. 
+Konsep dari pada Androngeng adalah sebuah cerita, dimana lebih banyak terdapat teks dari pada gambar yang ditujukan untuk para orang tua, guru TK/SD, anak-anak pada kitaran usia 5-12 tahun.
+Berikut adalah dokumentasi dari proses pembangunan Androngeng :
+
+19 September 2012
+melakukan communication dan planning yaitu menentukan nama sistem informasi dan pengumpulan bahan.
+
+08 Oktober 2012
+mengumpulkan judul dongeng, gambar, membuat desain sementara dan membuat PPT
+
+24 Okt
+membuat analisis dan desain aplikasi
+
+31 Oktober 2012
+Construction (Konstruksi), yaitu implementasi dan mulai pengerjaan sistem (pengkodingan)
+dalam instalasi aplikasi pendukung pembuatan software membutuhkan waktu yang cukup lama.
+misal : instalasi eclipse
+modifikasi cerita per kalimat dengan jumlah cerita 20 cerita.
+modifikasi gambar sesuai dengan judul cerita.
+beberapa kendala yang muncul dalam proses Construction :
+desain => kendala mencari gambar, cerita dan menyusunnya
+analisis => karena masih kurang pemahaman terhadap pembuatan aplikasi berbasis android, sehingga belum diketahui secara jelas keefektifan program yang dibuat.
+
+14 november 2012
+melanjutkan tahap Construction.. ^_^
+
+ok,, ibarat kehidupan, g akan seru klo g ada rintangan yang menghadang.. hehehe
+dalam proses pembuatan aplikasi ini jugha ditemukan banyak hambatan misalnya ajjah :
+masalah waktu, susah nginstalnya aplikasi pendukung pembuatan Androngeng, kadang2 males, fasilitas pembuat program kurang memadai, kadang masih bingung mau melangkah ke tahap selanjutnya karena tahap sebelumnya masih tewur,
+belum mengerti secara spesifik analisis software, kurang pemahaman terhadap pembuatan aplikasi berbasis android.
